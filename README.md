@@ -11,12 +11,6 @@ A beginner form China
 
 ### Github 活跃度
 
-[![](https://activity-graph.herokuapp.com/graph?username=LakeSmile&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=LakeSmile&show_icons=true&theme=vue)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LakeSmile&langs_count=6)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LakeSmile&layout=compact&langs_count=6)
-
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=LakeSmile&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 ![](https://raw.githubusercontent.com/LakeSmile/github-stats-transparent/output/generated/overview.svg)
