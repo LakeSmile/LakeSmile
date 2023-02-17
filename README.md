@@ -16,6 +16,11 @@ A beginner form China
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LakeSmile&langs_count=6)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LakeSmile&layout=compact&langs_count=6)
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=LakeSmile&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
+![](https://raw.githubusercontent.com/LakeSmile/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/LakeSmile/github-stats-transparent/output/generated/languages.svg)
 <!--
 **LakeSmile/LakeSmile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
