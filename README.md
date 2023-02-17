@@ -1,6 +1,10 @@
 <img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34">
-### Hi there 👋
+## Hi there 👋
 
+### 开源项目
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=LakeSmile&repo=CrawltoHowNet)]([https://github.com/Minori-ty/mp4To4K-rust](https://github.com/LakeSmile/CrawltoHowNet))
+<br><br><br>
 <!--
 **LakeSmile/LakeSmile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
